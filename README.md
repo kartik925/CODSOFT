@@ -291,8 +291,5 @@ Welcome to the Student Management System! This program allows you to manage stud
 - Select an option: 5
 Exiting Student Management System.
 
-![CodSoft Logo](https://photos.fife.usercontent.google.com/pw/AP1GczOclTR6s0qrIzsVY7jh99WKR1Lp1HkrFDwUpKJAdALFXqP_rSrolXUK=w734-h503-s-no-gm?authuser=1)
-
-
 
 
