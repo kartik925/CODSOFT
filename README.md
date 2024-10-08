@@ -11,7 +11,7 @@ Dear Kartik Tiwari,
 
 Congratulations! We are delighted to offer you the "Java Programming" internship position at **CodSoft**. We are excited about your decision to join our team.
 
-The internship is scheduled for a duration of 4 weeks, starting from August 15, 2023, to September 15, 2023. This internship is designed to provide you with valuable educational opportunities, focusing on learning, skill development, and gaining practical knowledge.
+The internship is scheduled for a duration of 4 weeks, starting from september 5, 2024, to october 5, 2024. This internship is designed to provide you with valuable educational opportunities, focusing on learning, skill development, and gaining practical knowledge.
 
 ## Internship Expectations
 
@@ -290,6 +290,9 @@ Welcome to the Student Management System! This program allows you to manage stud
 - 5. Exit
 - Select an option: 5
 Exiting Student Management System.
+
+![CodSoft Logo](https://photos.fife.usercontent.google.com/pw/AP1GczOclTR6s0qrIzsVY7jh99WKR1Lp1HkrFDwUpKJAdALFXqP_rSrolXUK=w734-h503-s-no-gm?authuser=1)
+
 
 
 
