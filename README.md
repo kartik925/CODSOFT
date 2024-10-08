@@ -4,8 +4,8 @@
 
 ## Internship Details
 
-- **Date:** 14/08/2023
-- **ID:** CS07WX43672
+- **Date:** 05/09/2024
+- **ID:** f76b945
 
 Dear Kartik Tiwari,
 
