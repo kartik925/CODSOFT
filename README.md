@@ -7,7 +7,7 @@
 - **Date:** 14/08/2023
 - **ID:** CS07WX43672
 
-Dear Vinay Kumar,
+Dear Kartik Tiwari,
 
 Congratulations! We are delighted to offer you the "Java Programming" internship position at **CodSoft**. We are excited about your decision to join our team.
 
