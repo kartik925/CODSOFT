@@ -1,6 +1,6 @@
 # CodSoft Internship Offer Letter
 
-![CodSoft Logo](https://www.codsoft.in/logo.png)
+![CodSoft Logo](https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=608,fit=crop,q=95/Aq20eV79zLfpXV6b/logo-png-mnl7npnlXjHPl9KV.png)
 
 ## Internship Details
 
